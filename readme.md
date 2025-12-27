@@ -1,6 +1,6 @@
 # Assorted ML Projects
 
-Welcome to **Assorted ML Projects**! This repository contains a collection of seven Jupyter notebooks, each focusing on different machine learning concepts and techniques. These notebooks are designed to help you learn and explore practical applications of machine learning step by step.
+Welcome to **Assorted ML Projects**! This repository contains a collection of six Jupyter notebooks, each focusing on different machine learning concepts and techniques. These notebooks are designed to help you learn and explore practical applications of machine learning step by step.
 
 ## Notebooks Overview
 
